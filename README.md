@@ -1,2 +1,2 @@
 # slider
-Slider de imagenes
+Slider de imágenes para páginas web
